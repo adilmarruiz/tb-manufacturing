@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 76.53 127.1">
-  <defs>
-    <style>
-      .cls-1 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-2 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-3 {
-        letter-spacing: -.03em;
-      }
-
-      .cls-4 {
-        fill: #1d1d1b;
-        font-family: Helvetica-Bold, 'Helvetica Bold';
-        font-size: 11px;
-        font-weight: 700;
-      }
-    </style>
-  </defs>
   <g id="Capa_1-2" data-name="Capa 1">
     <g>
-      <image width="745" height="1121" transform="scale(.1)" xlink:href="../delantal.png"/>
-      <text class="cls-4" transform="translate(16.99 124.35)"><tspan class="cls-2" x="0" y="0">A</tspan><tspan class="cls-1" x="6.47" y="0">p</tspan><tspan class="cls-3" x="12.5" y="0">r</tspan><tspan class="cls-1" x="15.75" y="0">ons</tspan></text>
+      <image width="745" height="1121" transform="scale(.1)" xlink:href="base/delantal.png"/>
     </g>
   </g>
 </svg>

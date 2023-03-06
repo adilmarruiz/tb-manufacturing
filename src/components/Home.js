@@ -3,7 +3,40 @@ function Home()
 {
     return(
         <div className="flex-1 grid justify-items-center content-center">
-            
+            <div class="container mx-auto xl:px-32 text-center lg:text-left">
+                <div class="grid lg:grid-cols-2 items-center">
+                    <div class="mb-12 lg:mb-0">
+                        <div class="relative block rounded-lg shadow-lg px-6 py-12 m-3 md:px-14 lg:-mr-14 backdrop-contrast-75 md:backdrop-hue-rotate-60 md:backdrop-saturate-0 md:backdrop-brightness-125 md:backdrop-blur-sm md:z-10">
+                            <h2 class="text-3xl font-bold mb-4 display-5 text-yellow-500">Why prefer us?</h2>
+                            <p class="text-gray-300 text-justify mb-12">
+                                We offer the highest quality and widest range of style options on branded bags, backpacks, laptop bags, T-Shirts, Polo shirts, formal shirts, uniforms, School uniforms, socks and medical apparel.
+                            </p>
+
+                            <div class="grid md:grid-cols-3 gap-x-6">
+                            <div class="mb-12 md:mb-0">
+                                <h2 class="text-3xl font-bold text-white mb-4">10%</h2>
+                                <h5 class="text-lg font-medium text-gray-500 mb-0">Less sugar</h5>
+                            </div>
+
+                            <div class="mb-12 md:mb-0">
+                                <h2 class="text-3xl font-bold text-white mb-4">70%</h2>
+                                <h5 class="text-lg font-medium text-gray-500 mb-0">More flavor</h5>
+                            </div>
+
+                            <div class="">
+                                <h2 class="text-3xl font-bold text-white mb-4">0%</h2>
+                                <h5 class="text-lg font-medium text-gray-500 mb-0">Gluten</h5>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="block mb-6 md:mb-0">
+                        <div className="w-full h-full rounded-full origin-center bg-slate-200 shadow-lg z-0">
+                            <img src={`${process.env.PUBLIC_URL}/img/base/cooloer.png`} class="origin-center rotate-[15deg] scale-105 z-20" alt="" />
+                        </div>
+                    </div>
+                </div>
+                </div>
         </div>
     );
 }
