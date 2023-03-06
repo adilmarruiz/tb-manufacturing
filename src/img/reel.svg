@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 152.09 164.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <image width="265" height="581" transform="translate(87.12 4.07) rotate(35.79) scale(.26)" xlink:href="../cañita.jpg"/>
+      <polygon class="cls-1" points="87.17 0 152.09 48.64 145.02 49.5 113.31 24.75 94.45 15.21 80.52 6 87.17 0"/>
+    </g>
+  </g>
+</svg>
