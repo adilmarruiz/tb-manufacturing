@@ -32,7 +32,7 @@ function Home()
                     </div>
                     <div className="block mb-6 md:mb-0">
                         <div className="w-full h-full rounded-full origin-center bg-slate-200 shadow-lg z-0">
-                            <img src={`${process.env.PUBLIC_URL}/img/base/cooloer.png`} class="origin-center rotate-[15deg] scale-105 z-20" alt="" />
+                            <img src={`${process.env.PUBLIC_URL}/img/cooler3.svg`} class="origin-center rotate-[15deg] scale-105 z-20" alt="" />
                         </div>
                     </div>
                 </div>
