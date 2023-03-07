@@ -5,15 +5,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'Drawstring Bag',
-                'url': 'img/bag1.svg',
+                'url': '/img/bag1.svg',
             },
             {
                 'nombre': 'Wine Bags',
-                'url': 'img/bag2.svg',
+                'url': '/img/bag2.svg',
             },
             {
                 'nombre': 'Delivery Bags',
-                'url': 'img/bag3.svg',
+                'url': '/img/bag3.svg',
             }
         ]
     },
@@ -23,11 +23,11 @@ export const information = [
         'img': [
             {
                 'nombre': 'Travel Bag',
-                'url': 'img/bag4.svg',
+                'url': '/img/bag4.svg',
             },
             {
                 'nombre': 'Duffel Bags',
-                'url': 'img/bag5.svg',
+                'url': '/img/bag5.svg',
             }
         ]
     },
@@ -37,11 +37,11 @@ export const information = [
         'img': [
             {
                 'nombre': 'Cumputer Bags',
-                'url': 'img/bag6.svg',
+                'url': '/img/bag6.svg',
             },
             {
                 'nombre': 'Back pack',
-                'url': 'img/bag7.svg',
+                'url': '/img/bag7.svg',
             }
         ]
     },
@@ -51,19 +51,19 @@ export const information = [
         'img': [
             {
                 'nombre': 'Coolers & Lunch bags',
-                'url': 'img/cooler1.svg',
+                'url': '/img/cooler1.svg',
             },
             {
                 'nombre': 'Coolers & Lunch bags',
-                'url': 'img/cooler2.svg',
+                'url': '/img/cooler2.svg',
             },
             {
                 'nombre': 'Coolers & Lunch bags',
-                'url': 'img/cooler3.svg',
+                'url': '/img/cooler3.svg',
             },
             {
                 'nombre': 'Coolers & Lunch bags',
-                'url': 'img/cooler4.svg',
+                'url': '/img/cooler4.svg',
             }
         ]
     },
@@ -73,15 +73,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'Riffle Bags',
-                'url': 'img/tactical1.svg',
+                'url': '/img/tactical1.svg',
             },
             {
                 'nombre': 'Tactical Backpack',
-                'url': 'img/tactical2.svg',
+                'url': '/img/tactical2.svg',
             },
             {
                 'nombre': 'Tactical Backpack',
-                'url': 'img/tactical3.svg',
+                'url': '/img/tactical3.svg',
             }
         ]
     },
@@ -91,15 +91,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'Reel Cover',
-                'url': 'img/reel1.svg',
+                'url': '/img/reel1.svg',
             },
             {
                 'nombre': 'Reel Cover',
-                'url': 'img/reel2.svg',
+                'url': '/img/reel2.svg',
             },
             {
                 'nombre': 'Reel Cover',
-                'url': 'img/reel3.svg',
+                'url': '/img/reel3.svg',
             }
         ]
     },
@@ -109,15 +109,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'Boat Cover',
-                'url': 'img/reel4.svg',
+                'url': '/img/reel4.svg',
             },
             {
                 'nombre': 'Pole Cover',
-                'url': 'img/reel5.svg',
+                'url': '/img/reel5.svg',
             },
             {
                 'nombre': 'Reel Cover',
-                'url': 'img/reel4.svg',
+                'url': '/img/reel4.svg',
             }
         ]
     },
@@ -127,15 +127,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'For Walk-Behind Mowers',
-                'url': 'img/grass1.svg',
+                'url': '/img/grass1.svg',
             },
             {
                 'nombre': 'For Walk-Behind Mowers',
-                'url': 'img/grass2.svg',
+                'url': '/img/grass2.svg',
             },
             {
                 'nombre': 'For Walk-Behind Mowers',
-                'url': 'img/grass3.svg',
+                'url': '/img/grass3.svg',
             }
         ]
     },
@@ -145,23 +145,23 @@ export const information = [
         'img': [
             {
                 'nombre': 'T-shirts',
-                'url': 'img/tex1.svg',
+                'url': '/img/tex1.svg',
             },
             {
                 'nombre': 'Aprons',
-                'url': 'img/tex2.svg',
+                'url': '/img/tex2.svg',
             },
             {
                 'nombre': 'Polo Shirts',
-                'url': 'img/shirt2.svg',
+                'url': '/img/shirt2.svg',
             },
             {
                 'nombre': 'Twill Short Sleeve Shirt',
-                'url': 'img/shirt3.svg',
+                'url': '/img/shirt3.svg',
             },
             {
                 'nombre': 'Twill Short Sleeve Shirt',
-                'url': 'img/shirt4.svg',
+                'url': '/img/shirt4.svg',
             },
         ]
     },
@@ -171,15 +171,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'Pants',
-                'url': 'img/pants.svg',
+                'url': '/img/pants.svg',
             },
             {
                 'nombre': 'Socks',
-                'url': 'img/s1.svg',
+                'url': '/img/s1.svg',
             },
             {
                 'nombre': 'Socks',
-                'url': 'img/s2.svg',
+                'url': '/img/s2.svg',
             }
         ]
     },
@@ -189,15 +189,15 @@ export const information = [
         'img': [
             {
                 'nombre': 'School Uniforms',
-                'url': 'img/uni1.svg',
+                'url': '/img/uni1.svg',
             },
             {
                 'nombre': 'School Uniforms',
-                'url': 'img/uni2.svg',
+                'url': '/img/uni2.svg',
             },
             {
                 'nombre': 'School Uniforms',
-                'url': 'img/uni3.svg',
+                'url': '/img/uni3.svg',
             }
         ]
     },
@@ -207,23 +207,23 @@ export const information = [
         'img': [
             {
                 'nombre': 'Nursing Dress',
-                'url': 'img/nurse1.svg',
+                'url': '/img/nurse1.svg',
             },
             {
                 'nombre': 'Uniforms',
-                'url': 'img/nurse2.svg',
+                'url': '/img/nurse2.svg',
             },
             {
                 'nombre': 'Scrub Sets',
-                'url': 'img/medical1.svg',
+                'url': '/img/medical1.svg',
             },
             {
                 'nombre': 'Memory Fabric Scrubs',
-                'url': 'img/medical2.svg',
+                'url': '/img/medical2.svg',
             },
             {
                 'nombre': 'Scrubs Shirts & Pants Customize',
-                'url': 'img/medical3.svg',
+                'url': '/img/medical3.svg',
             }
         ]
     },
@@ -233,11 +233,11 @@ export const information = [
         'img': [
             {
                 'nombre': 'Piping and grommet equipment',
-                'url': 'img/cap1.svg',
+                'url': '/img/cap1.svg',
             },
             {
                 'nombre': 'Embroidery',
-                'url': 'img/cap2.svg',
+                'url': '/img/cap2.svg',
             }
         ]
     },
