@@ -14,18 +14,18 @@ function Home()
 
                             <div class="grid md:grid-cols-3 gap-x-6">
                             <div class="mb-12 md:mb-0">
-                                <h2 class="text-3xl font-bold text-white mb-4">10%</h2>
-                                <h5 class="text-lg font-medium text-gray-500 mb-0">Less sugar</h5>
+                                <h2 class="text-3xl font-bold text-white mb-4">Bags</h2>
+                                <h5 class="text-lg font-medium text-gray-500 mb-0">Coolers</h5>
                             </div>
 
                             <div class="mb-12 md:mb-0">
-                                <h2 class="text-3xl font-bold text-white mb-4">70%</h2>
-                                <h5 class="text-lg font-medium text-gray-500 mb-0">More flavor</h5>
+                                <h2 class="text-3xl font-bold text-white mb-4">Reel</h2>
+                                <h5 class="text-lg font-medium text-gray-500 mb-0">Drawstring bag</h5>
                             </div>
 
                             <div class="">
-                                <h2 class="text-3xl font-bold text-white mb-4">0%</h2>
-                                <h5 class="text-lg font-medium text-gray-500 mb-0">Gluten</h5>
+                                <h2 class="text-3xl font-bold text-white mb-4">Tactical</h2>
+                                <h5 class="text-lg font-medium text-gray-500 mb-0">Riffle Bags </h5>
                             </div>
                             </div>
                         </div>
