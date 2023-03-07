@@ -38,12 +38,12 @@ function About()
                     </p>
                 </div>
             </div>
-            <div class="block max-w-sm w-full rounded-lg bg-white p-6 shadow-lg dark:bg-neutral-700">
+            <div className="block max-w-sm w-full rounded-lg bg-white p-6 shadow-lg dark:bg-neutral-700">
                 <h3 className='text-yellow-500'>Send us a message</h3>
-                    <div class="relative mb-4" data-te-input-wrapper-init>
-                        <textarea type="email" class="peer block min-h-[auto] w-full rounded border-0 bg-transparent py-[0.32rem] px-3 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:opacity-100 motion-reduce:transition-none dark:text-neutral-200 bg-neutral-600" value={message} onChange={handleMessage}/>
+                    <div className="relative mb-4" data-te-input-wrapper-init>
+                        <textarea type="email" className="peer block min-h-[auto] w-full rounded border-0 border-yellow-400 bg-transparent py-[0.32rem] px-3 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:opacity-100 motion-reduce:transition-none dark:text-neutral-900 bg-zinc-400" value={message} onChange={handleMessage}/>
                     </div>
-                    <a type="button" class="rounded bg-slate-200 px-6 py-2.5 text-xs font-medium uppercase leading-tight text-slate-800 shadow-md transition duration-150 ease-in-out hover:bg-primary-700 hover:shadow-lg focus:bg-primary-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-primary-800 active:shadow-lg"
+                    <a type="button" className="rounded bg-slate-200 px-6 py-2.5 text-xs font-medium uppercase leading-tight text-slate-800 shadow-md transition duration-150 ease-in-out hover:bg-primary-700 hover:shadow-lg focus:bg-primary-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-primary-800 active:shadow-lg"
                     data-te-ripple-init data-te-ripple-color="light" href={`mailto:sales@tbmanufacturing.com?subject=Information products&body=${message}`}>
                         Send Email
                     </a>
