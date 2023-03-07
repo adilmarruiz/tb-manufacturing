@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tb-manufacturing/static/css/main.c2d83090.css",
-    "main.js": "/tb-manufacturing/static/js/main.39bc1320.js",
+    "main.js": "/tb-manufacturing/static/js/main.217f5efb.js",
     "static/js/787.e0608e74.chunk.js": "/tb-manufacturing/static/js/787.e0608e74.chunk.js",
     "index.html": "/tb-manufacturing/index.html",
     "main.c2d83090.css.map": "/tb-manufacturing/static/css/main.c2d83090.css.map",
-    "main.39bc1320.js.map": "/tb-manufacturing/static/js/main.39bc1320.js.map",
+    "main.217f5efb.js.map": "/tb-manufacturing/static/js/main.217f5efb.js.map",
     "787.e0608e74.chunk.js.map": "/tb-manufacturing/static/js/787.e0608e74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2d83090.css",
-    "static/js/main.39bc1320.js"
+    "static/js/main.217f5efb.js"
   ]
 }
