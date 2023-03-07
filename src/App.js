@@ -11,7 +11,7 @@ function App() {
       <div className="flex min-h-screen max-h-screen flex-col overflow-auto bg-neutral-900">
         <NavBar/>
         <Routes>
-          <Route exact path='/tb-manufacturing/' element={<Home/>}></Route>
+          <Route exact path='/tb-manufacturing' element={<Home/>}></Route>
           <Route path='/tb-manufacturing/categories' element={<Categories/>}></Route>
           <Route path='/tb-manufacturing/about-us' element={<About/>}></Route>
         </Routes>

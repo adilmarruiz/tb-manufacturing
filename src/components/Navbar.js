@@ -25,24 +25,24 @@ function NavBar()
                         </svg>
                     </span>
                 </button>
-                <Link to='/'>
+                <Link to='/tb-manufacturing'>
                     <img src="img/tb-logo.png" className="h-14 invert" alt="" loading="lazy"/>
                 </Link>
                 <div className={`${isMobile ? "block" : "hidden"} flex-grow basis-[100%] items-center lg:!flex lg:basis-auto`}>
                     {/* Left links */}
                     <ul className="list-style-none mr-auto flex flex-col pl-0 lg:flex-row">
                         <li className="lg:px-2">
-                            <Link className={`${location.pathname === '/' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/'>
+                            <Link className={`${location.pathname === '/tb-manufacturing' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/'>
                                 Home
                             </Link>
                         </li>
                         <li className="lg:pr-2">
-                            <Link className={`${location.pathname === '/categories' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/categories'>
+                            <Link className={`${location.pathname === '/tb-manufacturing/categories' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/categories'>
                                 Categories
                             </Link>
                         </li>
                         <li className="lg:pr-2">
-                            <Link className={`${location.pathname === '/about-us' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/about-us'>
+                            <Link className={`${location.pathname === '/tb-manufacturing/about-us' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/about-us'>
                                 About Us
                             </Link>
                         </li>
