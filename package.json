@@ -1,7 +1,7 @@
 {
   "name": "tb-manufacturing",
   "version": "0.1.0",
-  "home": ".",
+  "homepage": "https://adilmarruiz.github.io/tb-manufacturing/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
