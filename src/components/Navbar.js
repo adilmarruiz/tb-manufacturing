@@ -32,17 +32,17 @@ function NavBar()
                     {/* Left links */}
                     <ul className="list-style-none mr-auto flex flex-col pl-0 lg:flex-row">
                         <li className="lg:px-2">
-                            <Link className={`${location.pathname === '/tb-manufacturing' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/'>
+                            <Link className={`${location.pathname === '/tb-manufacturing' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/tb-manufacturing'>
                                 Home
                             </Link>
                         </li>
                         <li className="lg:pr-2">
-                            <Link className={`${location.pathname === '/tb-manufacturing/categories' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/categories'>
+                            <Link className={`${location.pathname === '/tb-manufacturing/categories' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/tb-manufacturing/categories'>
                                 Categories
                             </Link>
                         </li>
                         <li className="lg:pr-2">
-                            <Link className={`${location.pathname === '/tb-manufacturing/about-us' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/about-us'>
+                            <Link className={`${location.pathname === '/tb-manufacturing/about-us' ? 'active':'block'} p-0 text-neutral-500 hover:text-neutral-700 focus:text-neutral-700 disabled:text-black/30 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-neutral-100`} to='/tb-manufacturing/about-us'>
                                 About Us
                             </Link>
                         </li>
