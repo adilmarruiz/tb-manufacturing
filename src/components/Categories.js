@@ -1,9 +1,8 @@
-import { useState } from "react";
-import { information } from "./global";
+import { useMemo, useState } from "react";
+import { information as data } from "./global";
 
 function Categories()
 {
-
     const [selectedItem, setSelectedItem] = useState(null);
 
     const handleItemClick = (item) => {
@@ -13,6 +12,11 @@ function Categories()
         setSelectedItem(item);
     }
     };  
+    const information = useMemo(()=>{
+        const information = data.map(item => ({...item}));
+        return information;
+    },[]);
+    console.log(information)
 
     return(
         <div className="py-5">
